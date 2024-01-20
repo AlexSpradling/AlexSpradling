@@ -1,6 +1,6 @@
-### Hi there 👋My name is Alex Spradling
+### Hello
 ---
 Data Scientist | Mariner
 ---
 
-Boats and Codes. 
+I'm a professional mariner and data scientist. I like working on projects that involve both!
