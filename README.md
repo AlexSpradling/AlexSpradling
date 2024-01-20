@@ -3,4 +3,4 @@
 Data Scientist | Mariner
 ---
 
-I am a data scientist and professional mariner. 
+Boats and Codes. 
