@@ -1,6 +1,5 @@
-### Ahoy
 ---
-Data Scientist | Mariner
+Ahoy
 ---
 
 I'm a mariner and data scientist. Actively sailing as Captain in the United States Merchant Marine. 
